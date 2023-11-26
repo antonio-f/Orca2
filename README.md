@@ -1,2 +1,3 @@
-# Orca2
-Orca 2 model on Colab
+# Orca 2 on Colab
+
+Example PyTorch notebook for "Orca 2" language model (Microsoft Research).
